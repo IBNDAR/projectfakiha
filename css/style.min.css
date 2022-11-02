@@ -19,7 +19,7 @@ h1, h2 {
   font-weight: 700; }
 
 .subheading {
-  color: #f34949; }
+  color: rgb(14, 157, 240) }
 
 .bg-white {
   background-color: #fff; }
@@ -486,7 +486,8 @@ a:hover {
   .menu-wrap {
     margin-bottom: 30px; }
   .footer-widget {
-    margin-bottom: 30px; }
+    margin-bottom: 30px; }{
+    font-family: Verdana, Geneva, Tahoma, sans-serif }
   .hero-left {
     padding-top: 30px;
     padding-bottom: 30px; } }
